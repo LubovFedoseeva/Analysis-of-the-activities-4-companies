@@ -1,5 +1,11 @@
-# Analytic_task_vk
+# Project "Analysis of the activities and development of four companies"
 
-This is the directory for checking analytic task for VK on internship Data Analyst.
+I have data on the activities of four companies.
 
-The data was given and need to do conclusions with visualisation via Jupyter Notebook.
+I need to analyze them and do conclusions with visualization via Jupyter Notebook.
+
+Conclusions:
+- determine which company has the largest number of registered accounts.
+- calculated % of the total number of accounts.
+- identified popular platforms which users used.
+- looked at summa orders and GMV.
